@@ -1,0 +1,12 @@
+Jw0oIMgpId1HV8x-mogAapr36SVRDSAM00qOEvAmLyxCaOV1I0T6kzJbSvazjA6Q7sNS46uHfHzRzLLAESkHYv3ES50h-sUQwtwvh836OsN-D5UwO6ObMswyxDM6YXYx
+
+Client ID
+TFXzvxpSAjByzZwg90mN6Q
+
+API Key
+cXSu-yzLXKEgvRstZQBt03B5PsC-x1AC34nKrhlFdtVBoV83yw66eQjgkhP6A0BQQyp54iz7I-BvWj28R3iVdOkneqiCtcSMQIP-0I_qv65kEO0Do4fpj_5SB34qYnYx
+S
+
+
+launch Expo within folder
+expo r -c
